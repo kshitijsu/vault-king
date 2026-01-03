@@ -1,0 +1,23 @@
+{
+  "name": "vault-king",
+  "version": "1.0.0",
+  "description": "A robust password manager ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshitijsu/vault-king.git"
+  },
+  "keywords": [
+    "password",
+    "manager"
+  ],
+  "author": "Kshitij Ukey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kshitijsu/vault-king/issues"
+  },
+  "homepage": "https://github.com/kshitijsu/vault-king#readme"
+}
